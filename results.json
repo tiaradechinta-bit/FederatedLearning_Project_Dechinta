@@ -1,0 +1,33 @@
+﻿{
+    "status": "completed",
+    "total_rounds": 5,
+    "total_clients": 3,
+    "samples_per_client": 40,
+    "round_history": [
+        {
+            "round": 1,
+            "loss": 0.34412776430447894,
+            "accuracy": 0.9166666666666666
+        },
+        {
+            "round": 2,
+            "loss": 0.3439555714527766,
+            "accuracy": 0.9166666666666666
+        },
+        {
+            "round": 3,
+            "loss": 0.32518630226453143,
+            "accuracy": 0.9166666666666666
+        },
+        {
+            "round": 4,
+            "loss": 0.33426504333813983,
+            "accuracy": 0.9166666666666666
+        },
+        {
+            "round": 5,
+            "loss": 0.322980672121048,
+            "accuracy": 0.9166666666666666
+        }
+    ]
+}
